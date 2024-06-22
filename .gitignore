@@ -1,0 +1,9 @@
+/.idea
+/.venv
+
+/build
+/dist
+/ico
+Renaming_the_Keil_project.spec
+
+/release
